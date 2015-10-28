@@ -1,0 +1,14 @@
+LICENSE INFORMATION
+
+Thanks for using this app.
+
+SmartIntercom app by Enrico Cambiaso is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+More information about the license are available at the following Internet address:
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are welcome to extend it as you prefer and to share your results with the Internet community.
+
+For more information visit the description on the author's blog:
+http://enricocambiaso.blogspot.com
+
+Author email is enrico.cambiaso@gmail.com . Please use "SmartIntercom" subject.

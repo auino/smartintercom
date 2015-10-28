@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">SmartIntercom</string>
+    <string name="displayedname">Enrico Cambiaso</string>
+    <string name="triggeredurl">http://dev.auino.com/smartintercom/</string>
+    
+</resources>
